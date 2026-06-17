@@ -1,0 +1,11 @@
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\bin\Debug\net9.0\OtoparkTakipSistemi.Core.deps.json
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\bin\Debug\net9.0\OtoparkTakipSistemi.Core.dll
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\bin\Debug\net9.0\OtoparkTakipSistemi.Core.pdb
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\obj\Debug\net9.0\OtoparkTakipSistemi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\obj\Debug\net9.0\OtoparkTakipSistemi.Core.AssemblyInfoInputs.cache
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\obj\Debug\net9.0\OtoparkTakipSistemi.Core.AssemblyInfo.cs
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\obj\Debug\net9.0\OtoparkTakipSistemi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\obj\Debug\net9.0\OtoparkTakipSistemi.Core.dll
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\obj\Debug\net9.0\refint\OtoparkTakipSistemi.Core.dll
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\obj\Debug\net9.0\OtoparkTakipSistemi.Core.pdb
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\ClassLibrary1OtoparkTakipSistemi.Core\obj\Debug\net9.0\ref\OtoparkTakipSistemi.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\bin\Debug\net9.0\OtoparkTakipSistemi.DataAccess.deps.json
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\bin\Debug\net9.0\OtoparkTakipSistemi.DataAccess.runtimeconfig.json
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\bin\Debug\net9.0\OtoparkTakipSistemi.DataAccess.dll
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\bin\Debug\net9.0\OtoparkTakipSistemi.DataAccess.pdb
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\bin\Debug\net9.0\OtoparkTakipSistemi.Core.dll
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\bin\Debug\net9.0\OtoparkTakipSistemi.Core.pdb
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkTakipSistemi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkTakipSistemi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkTakipSistemi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkTakipSistemi.DataAccess.AssemblyInfo.cs
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkTakipSistemi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkT.ADF248F7.Up2Date
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkTakipSistemi.DataAccess.dll
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\refint\OtoparkTakipSistemi.DataAccess.dll
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkTakipSistemi.DataAccess.pdb
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\OtoparkTakipSistemi.DataAccess.genruntimeconfig.cache
+C:\Users\Ali Kaan\Desktop\OtoparkTakipSistemi\OtoparkTakipSistemi.DataAccess\obj\Debug\net9.0\ref\OtoparkTakipSistemi.DataAccess.dll

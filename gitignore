@@ -1,0 +1,25 @@
+## Derleme çıktıları
+bin/
+obj/
+
+## Visual Studio kullanıcı/önbellek dosyaları
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## Veritabanı dosyaları (uygulama OtoparkDb.db'yi kullanıcının Belgelerim klasöründe
+## otomatik oluşturur, bu yüzden proje içindeki .db dosyalarının repoya girmesine gerek yok)
+*.db
+*.db-shm
+*.db-wal
+
+## Diğer
+*.log
+.DS_Store
