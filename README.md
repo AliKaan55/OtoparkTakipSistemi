@@ -1,4 +1,4 @@
-# 🚗 Otopark Takip Sistemi
+#  Otopark Takip Sistemi
 
 Küçük ve orta ölçekli otoparklar için geliştirilmiş, araç giriş-çıkış işlemlerini, park yeri doluluk durumunu ve ücretlendirmeyi yöneten bir Windows Forms masaüstü uygulaması.
 
