@@ -43,8 +43,13 @@ Proje, sorumlulukların ayrıldığı 3 katmanlı (N-tier) bir mimariyle tasarla
    - Örnek park yerlerini (A-1, A-2, B-1, B-2) ve standart tarifeyi otomatik ekler.
 
 ## Ekran Görüntüleri
+<img width="1160" height="387" alt="Image" src="https://github.com/user-attachments/assets/a614302e-2605-4344-bd92-92b45f5f7f5b" />
 
+<img width="1157" height="387" alt="Image" src="https://github.com/user-attachments/assets/4c9fa2e6-d46c-4cb4-857a-6746e07ed23d" />
 
+<img width="1164" height="389" alt="Image" src="https://github.com/user-attachments/assets/06376875-8642-478b-a963-18feee181d1a" />
+
+<img width="1158" height="385" alt="Image" src="https://github.com/user-attachments/assets/fd7d6b76-54b1-4dd9-bd9e-6bbd895ac79e" />
 
 ## Lisans
 
